@@ -8,7 +8,7 @@ baseurl: ""
 
 # If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
 # If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
-url: "https://mlh.github.io"
+url: "https://albanyhacks.github.io"
 
 # The ability to use custom themes.
 style:
@@ -20,25 +20,25 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "AlbanyHacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "AlbanyHacks | 12-1 December 2019 "
+  description: "This is AlbanyHacks, a hackathon hosted in the capital region."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "AlbanyHacks"
+  description: "This is AlbanyHacks, a hackathon hosted in the capital region."
+  date:        "12 & 13 March 2020"
+  location:    "Albany NY, United States"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2019  # season year
     region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:  "blue" #ite", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
